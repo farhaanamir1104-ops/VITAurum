@@ -1,0 +1,11 @@
+VIT Aurum - all code files
+
+python_app/   Original command-line app. Run: python main.py
+               Emailing needs a Gmail App Password - see python_app/README.md
+web_app/      Installable web app and Android Capacitor project setup.
+               Start with web_app/README.md for local run, PWA install, and APK steps.
+               Build APK in Android Studio after installing Node.js and Android Studio/SDK.
+
+Companion PDFs (sent separately):
+  SmartBudget_Code_Guide.pdf          - the basics, for beginners
+  VIT_Aurum_New_Code_Explained.pdf    - the newer features, line by line

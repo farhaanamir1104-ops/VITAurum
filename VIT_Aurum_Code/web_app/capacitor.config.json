@@ -1,0 +1,8 @@
+{
+  "appId": "com.vitaurum.ledger",
+  "appName": "VIT Aurum",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": ".",
+  "name": "VIT Aurum — Private Money Ledger",
+  "short_name": "VIT Aurum",
+  "description": "A private, on-device personal finance planner.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0B0E14",
+  "theme_color": "#0B0E14",
+  "icons": [
+    { "src": "/icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
